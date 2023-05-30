@@ -1,0 +1,9 @@
+D:\Ki_7\PRN221\CMS Source\FinalProject\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\Ki_7\PRN221\CMS Source\FinalProject\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Ki_7\PRN221\CMS Source\FinalProject\Models\bin\Debug\Models.dll
+D:\Ki_7\PRN221\CMS Source\FinalProject\Models\bin\Debug\Models.pdb
+D:\Ki_7\PRN221\CMS Source\FinalProject\Models\obj\Debug\Models.dll
+D:\Ki_7\PRN221\CMS Source\FinalProject\Models\obj\Debug\Models.pdb
+D:\Ki_7\PRN221\CMS Source\FinalProject\Models\bin\Debug\Newtonsoft.Json.dll
+D:\Ki_7\PRN221\CMS Source\FinalProject\Models\bin\Debug\Newtonsoft.Json.xml
+D:\Ki_7\PRN221\CMS Source\FinalProject\Models\obj\Debug\Models.csproj.CopyComplete

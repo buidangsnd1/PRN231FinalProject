@@ -1,0 +1,11 @@
+D:\Ki_7\PRN221\CMS Source\FinalProject\Controllers\bin\Debug\Controllers.dll
+D:\Ki_7\PRN221\CMS Source\FinalProject\Controllers\bin\Debug\Controllers.pdb
+D:\Ki_7\PRN221\CMS Source\FinalProject\Controllers\obj\Debug\Controllers.csproj.AssemblyReference.cache
+D:\Ki_7\PRN221\CMS Source\FinalProject\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+D:\Ki_7\PRN221\CMS Source\FinalProject\Controllers\obj\Debug\Controllers.dll
+D:\Ki_7\PRN221\CMS Source\FinalProject\Controllers\obj\Debug\Controllers.pdb
+D:\Ki_7\PRN221\CMS Source\FinalProject\Controllers\bin\Debug\Models.dll
+D:\Ki_7\PRN221\CMS Source\FinalProject\Controllers\bin\Debug\Models.pdb
+D:\Ki_7\PRN221\CMS Source\FinalProject\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+D:\Ki_7\PRN221\CMS Source\FinalProject\Controllers\bin\Debug\Newtonsoft.Json.dll
+D:\Ki_7\PRN221\CMS Source\FinalProject\Controllers\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": 100000,
+      "name": "Iphone 14",
+      "type": "Điện tử",
+      "quantity": 17,
+      "brand": "Apple",
+      "releaseDate": "2023-05-14T11:00:19.7330596+07:00",
+      "price": 28000000,
+      "discount": null
+    },
+    {
+      "id": 100001,
+      "name": "Iphone 14 Pro",
+      "type": "Điện tử",
+      "quantity": 10,
+      "brand": "Apple",
+      "releaseDate": "2023-05-14T11:00:19.734225+07:00",
+      "price": 32000000,
+      "discount": null
+    },
+    {
+      "id": 100002,
+      "name": "Iphone 14 Pro Max",
+      "type": "Điện tử",
+      "quantity": 29,
+      "brand": "Apple",
+      "releaseDate": "2023-05-14T11:00:19.734225+07:00",
+      "price": 35000000,
+      "discount": null
+    },
+    {
+      "id": 100003,
+      "name": "Xà lách",
+      "type": "Thực phẩm",
+      "quantity": 30,
+      "brand": "VGarden",
+      "releaseDate": "2023-05-14T11:00:19.734225+07:00",
+      "price": 20000,
+      "discount": null
+    },
+    {
+      "id": 100004,
+      "name": "Thịt gà",
+      "type": "Thực phẩm",
+      "quantity": 20,
+      "brand": "VGarden",
+      "releaseDate": "2023-05-14T11:00:19.734225+07:00",
+      "price": 80000,
+      "discount": null
+    },
+    {
+      "id": 100005,
+      "name": "Mì hảo hảo",
+      "type": "Thực phẩm",
+      "quantity": 300,
+      "brand": "AceCook",
+      "releaseDate": "2023-05-14T11:00:19.734225+07:00",
+      "price": 3500,
+      "discount": null
+    },
+    {
+      "id": 100006,
+      "name": "Xi măng",
+      "type": "Vật liệu xây dựng",
+      "quantity": 1000,
+      "brand": "Thành Thái",
+      "releaseDate": "2023-05-14T11:00:19.734225+07:00",
+      "price": 135000,
+      "discount": null
+    },
+    {
+      "id": 100007,
+      "name": "Quần short",
+      "type": "Thời trang",
+      "quantity": 100,
+      "brand": "Việt Tiến",
+      "releaseDate": "2023-05-14T11:00:19.734225+07:00",
+      "price": 125000,
+      "discount": null
+    }
+  ]
+}

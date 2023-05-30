@@ -1,0 +1,104 @@
+{
+  "bills": [
+    {
+      "paymentMethod": "Thanh toán tiền mặt.",
+      "staff": "Thái",
+      "billId": 1000000,
+      "cart": {
+        "id": 0,
+        "customer": {
+          "customerType": "Khách mua lẻ",
+          "point": 400,
+          "createTime": "2023-05-14T11:00:19.7360519+07:00",
+          "email": "vanthangha@xmail.com",
+          "id": "0123654789129",
+          "name": {
+            "first": "Thắng",
+            "last": "Hà",
+            "mid": "Văn"
+          },
+          "birthDate": "2000-05-11T00:00:00",
+          "address": "Nghệ An",
+          "phoneNumber": "0978193851"
+        },
+        "items": [
+          {
+            "numberOfSelectedItem": 1,
+            "priceAfterDiscount": 35000000,
+            "id": 100002,
+            "name": "Iphone 14 Pro Max",
+            "type": "Điện tử",
+            "quantity": 29,
+            "brand": "Apple",
+            "releaseDate": "2023-05-14T11:00:19.734225+07:00",
+            "price": 35000000,
+            "discount": null
+          },
+          {
+            "numberOfSelectedItem": 1,
+            "priceAfterDiscount": 28000000,
+            "id": 100000,
+            "name": "Iphone 14",
+            "type": "Điện tử",
+            "quantity": 19,
+            "brand": "Apple",
+            "releaseDate": "2023-05-14T11:00:19.7330596+07:00",
+            "price": 28000000,
+            "discount": null
+          }
+        ],
+        "totalItems": 0
+      },
+      "createTime": "2023-05-14T11:29:35.9214758+07:00",
+      "totalItem": 2,
+      "subTotal": 63000000,
+      "totalDiscountAmount": 0,
+      "totalAmount": 63000000,
+      "status": "Đã thanh toán"
+    },
+    {
+      "paymentMethod": null,
+      "staff": "Dung",
+      "billId": 1000001,
+      "cart": {
+        "id": 0,
+        "customer": {
+          "customerType": "Khách mua lẻ",
+          "point": 700,
+          "createTime": "2023-05-14T11:00:19.7360519+07:00",
+          "email": "quoccong@xmail.com",
+          "id": "0123654789127",
+          "name": {
+            "first": "Công",
+            "last": "Ngô",
+            "mid": "Quốc"
+          },
+          "birthDate": "1996-04-22T00:00:00",
+          "address": "Vũng Tàu",
+          "phoneNumber": "0978123476"
+        },
+        "items": [
+          {
+            "numberOfSelectedItem": 2,
+            "priceAfterDiscount": 28000000,
+            "id": 100000,
+            "name": "Iphone 14",
+            "type": "Điện tử",
+            "quantity": 17,
+            "brand": "Apple",
+            "releaseDate": "2023-05-14T11:00:19.7330596+07:00",
+            "price": 28000000,
+            "discount": null
+          }
+        ],
+        "totalItems": 0
+      },
+      "createTime": "2023-05-14T11:30:02.7534721+07:00",
+      "totalItem": 2,
+      "subTotal": 56000000,
+      "totalDiscountAmount": 0,
+      "totalAmount": 56000000,
+      "status": "Đang xử lý"
+    }
+  ]
+}

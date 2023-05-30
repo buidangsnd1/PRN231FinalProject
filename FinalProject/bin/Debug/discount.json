@@ -1,0 +1,58 @@
+{
+  "discounts": [
+    {
+      "id": 1000000,
+      "name": "KM 1/1",
+      "start": "2022-01-01T01:01:01",
+      "end": "2022-01-01T23:59:59",
+      "type": "Giảm giá trực tiếp",
+      "amount": 50000,
+      "percent": 0
+    },
+    {
+      "id": 1000001,
+      "name": "KM 15/1",
+      "start": "2022-01-15T15:15:15",
+      "end": "2022-01-15T23:59:59",
+      "type": "Giảm giá trực tiếp",
+      "amount": 50000,
+      "percent": 0
+    },
+    {
+      "id": 1000002,
+      "name": "KM 2/2",
+      "start": "2022-02-02T02:02:02",
+      "end": "2022-02-02T23:59:59",
+      "type": "Giảm giá trực tiếp",
+      "amount": 150000,
+      "percent": 0
+    },
+    {
+      "id": 1000003,
+      "name": "KM 3/3",
+      "start": "2022-03-03T03:03:03",
+      "end": "2022-03-03T23:59:59",
+      "type": "Khuyến mãi % giá bán",
+      "amount": 0,
+      "percent": 20
+    },
+    {
+      "id": 1000004,
+      "name": "KM 4/4",
+      "start": "2022-04-04T04:04:04",
+      "end": "2022-04-04T23:59:59",
+      "type": "Giảm giá trực tiếp",
+      "amount": 50000,
+      "percent": 0
+    },
+    {
+      "id": 1000005,
+      "name": "KM 5/5",
+      "start": "2022-05-05T05:05:05",
+      "end": "2022-05-05T23:59:59",
+      "type": "Khuyến mãi % giá bán",
+      "amount": 0,
+      "percent": 30
+    }
+  ]
+}
